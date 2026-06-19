@@ -51,14 +51,6 @@ The dashboard classifies customers into:
 - Spending patterns are not directly proportional to income levels.
 - Customer segmentation helps businesses design targeted marketing strategies.
 
-## Project Screenshots
-
-### Dashboard Overview
-(Add Page 1 Screenshot)
-
-### Customer Segmentation Analysis
-(Add Page 2 Screenshot)
-
 ## Author
 
 Kusuma
